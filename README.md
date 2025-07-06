@@ -1,0 +1,1 @@
+# archlinux-quick-install
